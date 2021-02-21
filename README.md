@@ -1,0 +1,3 @@
+# LAL Parser Server
+
+This is a Flask-based server intended for running and receiving constituency parsing or dependency parsing from the trained [LAL Parser by Khalil Mrini](https://github.com/KhalilMrini/LAL-Parser).  This package goes with a Singularity container definition script [here](https://github.com/kh8fb/kh8fb_singularity/tree/master/definition_scripts).  Below are some helpful installation steps.
